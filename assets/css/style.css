@@ -1,0 +1,13 @@
+/* Style for Page  */
+    html{
+    align-items: center;
+}
+    body{
+  background-color: black;
+  color: greenyellow;
+}
+
+/* Make circle in the middle  */
+#Lime{
+    background-color: green;
+}
