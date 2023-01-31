@@ -7,6 +7,9 @@
 
 function loadPage(){
     console.log("Test");
+
+    document.getElementById("span").innerHTML =
+     welcomeString;
 }
 //Text Display Coming Soon Information
 
@@ -15,3 +18,5 @@ function loadPage(){
 //Menu button that displays items that wil be on the menu
 let menuItems =["Fruit", "Berry", "LemonLime"];
 
+
+let welcomeString = `Welcome to Lime Green Smoothies! `;
