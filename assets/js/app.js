@@ -6,7 +6,7 @@
 // the style
 
 function loadPage(){
-    console.log("Test for start of page");
+    console.log("Test");
 }
 //Text Display Coming Soon Information
 
@@ -15,4 +15,3 @@ function loadPage(){
 //Menu button that displays items that wil be on the menu
 let menuItems =["Fruit", "Berry", "LemonLime"];
 
-//document.body.onload = loadPage();
